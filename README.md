@@ -1,6 +1,7 @@
 # recipeApp
 
 # Steps to Run the App
+first time need to wait for 5seconds for the splash screen to go away. 
 simply run the app, there is only one page in the app and pull to referesh(basic function).
 atttached the video for the reference 
 # Focus Areas: What specific areas of the project did you prioritize? Why did you choose to focus on these areas?
