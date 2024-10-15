@@ -18,7 +18,7 @@ handling error scenarios
 30 - caching technique 
 
 # Trade-offs and Decisions: Did you make any significant trade-offs in your approach?
-i dediced to make custom compontents and base class implementations for the better coding practice 
+i decided to make custom compontents and base class implementations for the better coding practice 
 
 # Weakest Part of the Project: What do you think is the weakest part of your project?
 caching could be
